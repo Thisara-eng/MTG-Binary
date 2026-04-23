@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=CONNECTORS.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=ESP32.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=MOTOR_DRIVERS.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=REALY_AND_PRESSURE.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=USB_HUB.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CONNECTORS.SchDoc|FileName=XIAO_S3.SchDoc|SheetNumber=3
